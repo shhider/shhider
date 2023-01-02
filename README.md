@@ -1,9 +1,20 @@
-### Hi there 👋
+> Building...
 
-## 我喜欢的 iOS/macOS APPs
+## Hi there 👋
 
-* [sfsam/Itsycal](https://github.com/sfsam/Itsycal)
-* // ...
+I'm shhider, working at DingTalk as a FrontEnd Engineer.
+
+Look [DingTalk Doc](https://docs.dingtalk.com) I'm working for.
+
+
+## My Collections
+
+* [My Favorite macOS Apps as a FrontEnd Developer](https://github.com/shhider/shhider.github.io/issues/12)
+* ...
+
+
+#### [>> Read More My Posts](https://github.com/shhider/shhider.github.io/issues)
+
 
 <!--
 **shhider/shhider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
