@@ -2,13 +2,14 @@
 
 ## Hi there 👋
 
-I'm shhider, working at DingTalk as a FrontEnd Engineer.
+I'm shhider, working on [DingTalk Docs](https://docs.dingtalk.com) as a FrontEnd Engineer now.
+* I'm responsible for the Formula-Engine of DingTalk Sheet;
+* I'm working on DingTalk Notable (like Airtable) recently;
 
-Look [DingTalk Doc](https://docs.dingtalk.com) I'm working for.
+## My Posts
 
-
-## My Collections
-
+* [My TypeScript Read-List](https://github.com/shhider/shhider.github.io/issues/13)
+* [My React Read-List](https://github.com/shhider/shhider.github.io/issues/14)
 * [My Favorite macOS Apps as a FrontEnd Developer](https://github.com/shhider/shhider.github.io/issues/12)
 * ...
 
